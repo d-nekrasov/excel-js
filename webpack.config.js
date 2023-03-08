@@ -122,7 +122,6 @@ module.exports = (env, argv) => {
       open: true,
       hot: true,
       watchFiles: './',
-      logging: 'info',
     },
   };
 };
